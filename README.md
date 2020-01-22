@@ -7,7 +7,7 @@
 
 ## Requirement
 
-- `fish shell`
+- `fish`(shell)
   - https://fishshell.com/
 - `fzf` command
   - https://github.com/jethrokuan/fzf
